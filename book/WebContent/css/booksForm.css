@@ -1,0 +1,21 @@
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+td {
+	padding: 10px;
+}
+
+div#title {
+	margin: 2px;
+}
+
+body {
+	hegiht: 700px;
+}

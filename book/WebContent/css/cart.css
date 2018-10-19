@@ -1,0 +1,44 @@
+table {
+	text-align: center;
+	padding: 0;
+	width: 800px;
+}
+body {
+	background-color: white;
+}
+
+td#content {
+	text-align: left;
+	line-height: 40px;
+}
+
+th {
+	border-top: 3px solid #fbcc00;
+	border-bottom: 1px solid #fbcc00;
+	height: 40px;
+	padding: 5px;
+	background-color: lightyellow;
+}
+
+input[type="button"]{
+	margin: 10px;
+	width:100px;
+	height:50px;
+	border: 0;
+	color:white;
+	font-weight:bold;
+	background-color: #fbcc00;
+}
+
+input[type="button"]:hover{
+	background-color:#DB9700;
+}
+
+td {
+	padding: 15px;
+	border-bottom: 1px solid gray;
+}
+
+div#bigBox {
+	align: center;
+}

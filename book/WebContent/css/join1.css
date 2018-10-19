@@ -1,0 +1,70 @@
+div#label{
+	width:50%;
+ 	border-radius: 30px;
+ 	border:3px solid #fbcc00;
+ 	color: #fbcc00;
+ 	font-size: 30px;
+ 	padding: 5px;
+ 	margin-top: 20px;
+ 	margin-bottom: 30px;
+}
+
+form#joinForm1 {
+	background-color: white;
+	padding: 20px;
+	width: 500px;
+	margin: 20px;	
+}
+
+input[type="button"]{
+	width: 100px;
+	height: 35px;
+	border: none;
+	border-radius: 5px;
+	margin: 10px;
+	background-color: #fbcc00;
+	color:white;
+}
+
+input[type="button"]:hover{
+	background-color: #DB9700;
+}
+
+input#year,#month,#day{
+	width:120px;
+	height:30px;
+	border:1px solid #dddddd;
+	border-radius:5px;
+}
+input#id_chk{
+	width:120px;
+	height:40px;
+}
+input#email1{
+	width:150px;
+}
+input#email2{
+	width:150px;
+}
+select#email{
+	width:150px;
+	height:30px;
+	border:1px solid #dddddd;
+	border-radius:5px;
+}
+input#address1{
+	width:500px;
+}
+input#address2{
+	width:500px;
+}
+
+iframe {
+	border: 1px solid lightgray;
+	width: 500px;
+	height: 140px;
+}
+
+td#padding {
+	padding: 5px;
+}

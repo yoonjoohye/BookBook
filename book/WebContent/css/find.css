@@ -1,0 +1,38 @@
+body {
+	background-color: #fbcc00;
+}
+
+input {
+	width: 200px;
+	height: 25px;
+	margin: 10px;
+}
+
+div#box {
+	padding-left: 35%;
+	padding-top: 10%; 
+}
+
+div#find {
+	width: 300px;
+	height: 250px;
+	padding: 10px;
+	padding-left: 25px;
+	margin: 20px;
+	background-color: white;
+	border-radius: 15px;
+	diplay: inline-block;
+	float: left;
+}
+
+input[type="submit"] {
+	width: 150px;
+	height: 30px;
+	background-color: white;
+	border: 1px solid gray;
+}
+
+input[type="submit"]:hover {
+	background-color: #eeeeee;
+	border: 1px solid gray;
+}

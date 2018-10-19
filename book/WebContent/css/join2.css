@@ -1,0 +1,91 @@
+body {
+	/*background-color: #fbcc00;*/
+	padding: 20px;
+}
+
+form#joinForm2 {
+	background-color: white;
+	padding: 20px;
+	width: 400px;
+	height: 500px;
+	margin: 20px;
+}
+
+input {
+  display: inline-block;
+  width: 350px;
+  height: 40px;
+  border: none;
+  /*border-bottom: 1px solid lightgray;*/
+}
+
+span {
+	width: 380px;
+	height: 25px;
+	margin-left: 5px;
+}
+
+div#button {
+	width: 50px;
+	height: 44px;
+	vertical-align: middle;
+	line-height:40px;
+	text-align: center;
+	display:  inline-block;
+	background-color: lightyellow;
+	margin: 0;
+}
+
+div#row {
+	border-bottom: 1px solid lightgray;
+}
+
+div#rowGroup {
+	border: 1px solid gray;
+	margin-bottom: 10px;
+}
+
+input[type=button]#id {
+  width: 30px;
+  height: 30px;
+  font-size: 5px;
+  border-radius: 3px;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+input[type="button"]{
+	margin-top: 10px;
+	width: 400px;
+	height:60px;
+	border: none;
+	color:white;
+	font-weight:bold;
+	background-color: #fbcc00;
+}
+
+input[type="button"]:hover{
+	background-color: #DB9700;
+}
+
+input#email1 {
+  width: 100px;
+}
+
+input#email2 {
+  width: 100px;
+}
+
+select#email {
+	height: 30px;
+	vertical-align: middle;
+}
+
+input#bir_y {
+  width: 100px;
+}
+
+input#bir_d {
+  width: 100px;
+}

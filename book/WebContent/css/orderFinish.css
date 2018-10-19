@@ -1,0 +1,50 @@
+body {
+	background-color: white;
+}
+
+
+div#bigBox {
+	width: 700px;
+}
+
+table {
+	width: 740px;
+	border: 2px solid #eeeeee;
+	border-radius: 20px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+
+table td {
+	line-height: 40px;
+	padding: 15px;
+}
+
+table th {
+	border-bottom: 2px solid #eeeeee;
+	height: 40px;
+	padding: 5px;
+}
+
+h3 {
+	display: inline-block;
+}
+
+span {
+	padding-left: 30px;
+}
+
+input[type="button"]{
+	margin: 10px;
+	width:100px;
+	height:40px;
+	border: 1px solid white;
+	color: white;
+	font-weight:bold;
+	background-color: #fbcc00;
+}
+
+input[type="button"]:hover{
+	background-color:#DB9700;
+}

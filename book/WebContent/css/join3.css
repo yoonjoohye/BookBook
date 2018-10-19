@@ -1,0 +1,30 @@
+body {
+	background-color: #fbcc00;
+	padding: 20px;
+}
+
+div#greeting{
+	width: 600px;
+	height: 200px;
+	margin-top: 10%;
+	/*border: 1px solid black;`
+	background-color: lightyellow;*/
+}
+
+p {
+	color: #0B615E;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+a {
+	color: black;
+	margin: 4px;
+	font-weight:bold;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+	font-size: 17px;
+}

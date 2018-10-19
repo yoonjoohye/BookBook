@@ -1,0 +1,199 @@
+div#superBig {
+	width: 700px;
+	align: center;
+}
+
+table {
+	text-align: center;
+	padding: 0;
+	width: 700px;
+	/*border: 1px solid black;*/
+}
+
+div#white {
+	background-color: white;
+	width: 700px;
+	padding: 20px;
+	border-radius: 20px;
+	padding-bottom: 50px;
+}
+
+table#product td#content {
+	text-align: left;
+	line-height: 40px;
+}
+
+table#product th {
+	border-top: 3px solid #fbcc00;
+	border-bottom: 1px solid #fbcc00;
+	height: 40px;
+	padding: 5px;
+	background-color: lightyellow;
+}
+
+input[type="number"] {
+	width: 50px;
+	height: 25px;
+}
+
+select {
+	width: 50px;
+	height: 30px;
+}
+
+select#bank {
+	width: 80px;
+}
+
+input[type="button"]{
+	margin: 10px;
+	width:100px;
+	height:40px;
+	border: 1px solid white;
+	color: white;
+	font-weight:bold;
+	background-color: #fbcc00;
+}
+
+input[type="button"]:hover{
+	background-color:#DB9700;
+}
+
+input[type="submit"]{
+	margin: 10px;
+	width:100px;
+	height:40px;
+	border: 1px solid white;
+	color: white;
+	font-weight:bold;
+	background-color: #fbcc00;
+}
+
+input[type="submit"]:hover{
+	background-color:#DB9700;
+}
+
+
+table#product td {
+	padding: 15px;
+	border-bottom: 1px solid gray;
+}
+
+th {
+	height: 40px;
+}
+
+table#point {
+	border-bottom: 3px solid white;
+	margin-bottom: 20px;
+}
+
+table#order {
+	width: 740px;
+	border: 2px solid white;
+	border-radius: 20px;
+}
+
+table#deliv {
+	width: 740px;
+	border: 2px solid white;
+	border-radius: 20px;
+}
+
+table#order td {
+	float: left;
+	height: 40px;
+	padding: 15px;
+	padding-left: 50px;
+}
+
+table#deliv td {
+	float: left;
+	height: 40px;
+	padding: 15px;
+	padding-left: 50px;
+}
+
+table#order th {
+	width: 200px;
+	border-right: 2px solid white;
+}
+
+table#deliv th {
+	width: 200px;
+	border-right: 2px solid white;
+	height: 40px;
+}
+
+div#span {
+	height: 50px;
+	line-height: 50px;
+}
+
+div#finish {
+	border: 2px solid white;
+	border-radius: 20px;
+	display: block;
+	margin: 40px 0;
+	padding: 20px;
+	padding-top: 40px;
+	width: 700px;
+}
+
+/* table#money {
+	border: 2px solid white;
+	border-radius: 0 0 20px 20px;
+	display: block;
+	margin: 40px 0;
+	padding: 20px;
+	padding-top: 40px;
+	width: 700px;
+}
+
+table#point {
+	border: 2px solid white;
+	border-radius: 20px 20px 0 0;
+	display: block;
+	margin: 40px 0;
+	padding: 20px;
+	padding-top: 40px;
+	width: 700px;
+} */
+
+table#point tr {
+	padding-top: 20px;
+}
+
+table#info {
+	padding: 10px;
+	border: 2px solid white;
+	border-radius: 10px;
+}
+
+table#info td{
+	padding-left: 20px;
+}
+
+span {
+	font-size: 20px;
+	font-weight: bold;
+	float: left;
+	padding-left: 5px;
+	margin: 5px;
+	margin-top: 40px;
+}
+
+input[type="text"]#short {
+	width: 100px;
+	height: 25px;
+}
+
+input[type="text"]#long {
+	width: 200px;
+	height: 25px;
+}
+
+
+div#button {
+	padding-top: 20px;
+}

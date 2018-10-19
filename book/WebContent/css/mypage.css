@@ -1,0 +1,38 @@
+body {
+	background-color: white;
+}
+
+div#circle_left {
+	width: 300px;
+	height: 300px;
+	border: 1px solid black;
+	border-radius: 50%;
+	display: inline-block;
+	line-height: 300px;
+	background-color: #fbcc00;
+}
+
+div#circle_right {
+	width: 300px;
+	height: 300px;
+	border: 1px solid black;
+	border-radius: 50%;
+	display: inline-block;
+	line-height: 300px;
+	background-color: #43B3E6;
+}
+
+a div{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+
+a:hover div#circle_left {
+	background-color: #C6A517
+}
+
+a:hover div#circle_right {
+	background-color: #368EAD;
+}

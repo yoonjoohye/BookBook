@@ -1,0 +1,109 @@
+* {
+	margin: 0;
+}
+
+div#header_div img {
+	display: inline;
+	width: 150px;
+	height: 56px;
+	margin-left: 15px;
+}
+
+
+div#header_div a {
+	text-decoration: none;
+	color: black;
+	padding: 20px 10px;
+}
+
+div#header_div a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+div#header_div span {
+	font-size:20px;
+	font-weight: 800;
+	font-family: 
+	'Noto Sans KR','Malgun Gothic','맑은고딕',
+	'돋움',Dotum,Helvetica,'Apple SD Gothic Neo',Sans-serif;
+	vertical-align: super;
+}
+
+div#header_div {
+	display: inline;
+	float: left;
+	padding: 5px 5px;
+}
+#nav
+{
+	float: left;
+	padding: 25px 5px;
+}
+
+#nav ul
+{
+	list-style:none;
+	position:relative;
+	padding:0;
+}
+
+#nav ul a
+{
+	display:block;
+	color: gray;
+	text-decoration:none;
+	font-weight:700;
+	font-size:12px;
+	padding:0 15px;
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+	left: 30%;
+
+}	
+
+#nav ul a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+#nav ul li
+{
+	position:relative;
+	float:left;
+	margin:0;
+	padding:0;
+}
+
+#nav ul ul
+{
+	display:none;
+	position:absolute;
+	top:100%;
+	left:0;
+	padding:0;
+	border: 1px solid gray;
+}
+
+#nav ul ul li
+{
+	float:none;
+	width:100px;
+	background-color: white;
+}
+
+#nav ul ul a
+{
+	line-height:120%;
+	padding:10px 15px;
+}
+
+#nav ul ul ul
+{
+	top:0;
+	left:100%;
+}
+
+#nav ul li:hover ul
+{
+	display:block;
+}

@@ -1,0 +1,84 @@
+body{
+	background-color:white;
+}
+div#all{
+	margin-left:20%;
+	margin-right:20%;
+}
+div#label{
+	width:100%;
+	text-align:left;
+	border:0px;
+	border-bottom:2px solid #545454;
+	font-weight:bold;
+	font-size:20pt;
+	color:#545454;
+}
+table{
+	width:100%;
+	background-color:white;
+	border-radius:5px;
+	margin-top:20px;
+	border-collapse:collapse;
+	height:150px;
+	color:gray;
+}
+table tr td{
+	border:1px solid #e6e6e6;
+}
+table tr td:nth-child(1){
+	width:150px;
+	background-color:#eeeeee;
+	text-align:center;
+	font-weight:bold;
+}
+table tr td:nth-child(2){
+	padding-left:10px;
+	
+}
+table#talk1, table#talk2{
+	text-align:center;
+	height:300px;
+	border:0px;
+	background-color:#FEFAE6;
+}
+table#talk1 tr td, table#talk2 tr td,table#talk3 tr td{
+	border:0px;
+}
+table#talk1 tr td:nth-child(1), table#talk2 tr td:nth-child(1),table#talk3 tr td:nth-child(1){
+	background-color:#fbcc00;
+	text-align:center;
+	color:white;
+}
+input[type="button"]{
+	width:100px;
+	height:40px;
+	border: none;
+	color:white;
+	font-weight:bold;
+	background-color: #fbcc00;
+}
+input[type="button"]:hover{
+	background-color:#DB9700;
+}
+table#talk3{
+	height:120px;
+	border:0px;
+	background-color:#FEFAE6;
+	text-align:center;
+}
+textarea{
+	width:100%;
+	height:100px;
+}
+input[type="submit"]{
+	width:100%;
+	height:50px;
+	border: none;
+	color:white;
+	font-weight:bold;
+	background-color:#545454;
+}
+input[type="submit"]:hover{
+	background-color:#363636;
+}

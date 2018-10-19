@@ -1,0 +1,53 @@
+h2{
+	color:white;
+	margin-bottom:20px;
+}
+table th{
+	color:white;
+	text-align:left;
+}
+div{
+	text-align:center;
+}
+input[type="text"], input[type="password"] {
+	width:250px;
+	height:30px;
+	border:1px solid #eeeeee;
+	border-radius:5px;
+	font-size:10pt;
+}
+input#bir_y,select#bir_m,input#bir_d{
+	width:80px;
+	height:30px;
+	border:1px solid #eeeeee;
+	border-radius:5px;
+	font-size:10pt;
+}
+input#email1, input#email2{
+	width:120px;
+	height:30px;
+}
+select{
+	width:130px;
+	height:30px;
+	border:1px solid #eeeeee;
+	border-radius:5px;
+}
+input#address1, input#address2{
+	width:400px;
+	height:30px;
+}
+input[type="button"]{
+	margin-top:30px;
+	width:100px;
+	height:40px;
+	border:3px solid white;
+	background-color:#fbcc00;
+	color:white;
+	font-weight:bold;
+}
+input[type="button"]:hover{
+	background-color:white;
+	color:#fbcc00;
+	font-weight:bold;
+}

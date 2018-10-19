@@ -1,0 +1,105 @@
+select {
+	height: 30px;
+	width: 100px;
+}
+
+div#�냼�꽕 {
+	display: inline-block;
+}
+
+div#痍⑤�� {
+	display: none;
+}
+
+div#留뚰솕 {
+	display: none;
+}
+
+div#臾몄젣吏� {
+	display: none;
+}
+
+div#content {
+	margin: 5px;
+	padding: 10px;
+	width: 550px;	
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+table {
+	padding: 5px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+
+input {
+	width: 300px;
+	height: 50px;
+}
+
+div#info input {
+	width: 200px;
+	height: 25px;
+}
+
+input[type=text]#cost {
+	width: 60px;
+}
+
+input[type=file] {
+	border: 1px solid black;
+	height: 35px;
+}
+
+input[type="submit"]{
+	margin: 10px;
+	width:100px;
+	height:40px;
+	border: none;
+	color:white;
+	font-weight:bold;
+	background-color: #fbcc00;
+}
+
+input[type="submit"]:hover{
+	background-color:#DB9700;
+}
+
+#myimg {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
+
+#myimg + label {
+	width: 150px;
+	height: 30px;
+	line-height: 30px;
+	display: inline-block;
+	border: 1px solid gray;
+	padding: 3px;
+	color: gray;
+	background-color: white;
+}
+
+#myimg:focus + label, #myimg + label:hover {
+    background-color: white;
+}
+
+#myimg:focus + label {
+	outline: 1px dotted #000;
+	outline: -webkit-focus-ring-color auto 5px;
+}
+
+span#span {
+	line-height: 30px;
+	color: gray;
+	font-size: 11px;
+}

@@ -1,0 +1,28 @@
+div#caption {
+	float: right;
+}
+
+table img {
+	margin: 5px;
+	margin-right: 20px;
+}
+
+table td div#content {
+	margin: 5px;
+	padding: 10px;
+	width: 550px;
+	border-radius: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+table {
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 25px;
+	background-color: lightyellow;
+}

@@ -1,0 +1,90 @@
+body {
+	background-color: white;
+}
+
+table{
+	width:1150px;
+	text-align: center;
+	padding: 0;
+}
+
+th {
+	border-top: 3px solid #fbcc00;
+	border-bottom: 1px solid #fbcc00;
+	height: 40px;
+	padding: 5px;
+	background-color: lightyellow;
+}
+
+
+input[type="submit"]{
+	position: fixed;
+	margin: 10px;
+	width:100px;
+	height:40px;
+	border: none;
+	color:white;
+	font-weight:bold;
+	background-color: #fbcc00;
+	float: right;
+	margin-right: 5%;
+	z-index: 999;
+}
+
+input[type="submit"]:hover{
+	background-color:#e8670f;
+}
+
+td {
+	padding: 15px;
+	border-bottom: 1px solid gray;
+	color:gray;
+}
+
+select {
+	width: 60px;
+	height: 30px;
+	border: solid 1px lightgray;
+}
+
+img {
+	width: 25px;
+}
+
+div#box {
+	margin-left: 50px;
+	margin: 30px;
+}
+
+div#select {
+	float: left;
+	display: inline-block;
+}
+
+div#img {
+	width: 26px;
+	height: 26px;
+	padding: 2px;
+	background-color: #fbcc00;
+	display: inline-block;
+}
+input[type="button"]{
+	width:100px;
+	height:40px;
+	border: none;
+	color:white;
+	font-weight:bold;
+	background-color: #fbcc00;
+}
+table tr td a{
+	text-decoration:none;
+	color:gray;
+}
+table tr td a:hover{
+	text-decoration:underline;
+	font-weight:bold;
+	color:#666666;
+}
+input[type="button"]:hover{
+	background-color:#DB9700;
+}

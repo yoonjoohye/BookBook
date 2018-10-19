@@ -1,0 +1,29 @@
+div#row {
+	margin: 13px;
+	padding: 10px;
+	padding-bottom: 13px;
+	border-bottom: 1px solid lightgray;
+}
+
+div#check {
+	float: left;
+	display: inline-block;
+}
+
+input[type="submit"]{
+	margin: 10px;
+	width:100px;
+	height:40px;
+	border: none;
+	color:white;
+	font-weight:bold;
+	background-color: #fbcc00;
+}
+
+input[type="submit"]:hover{
+	background-color:#DB9700;
+}
+
+h3 {
+	display: inline;
+}

@@ -1,0 +1,30 @@
+div#point {
+	margin-top:150px;
+	margin-bottom:150px;
+	border: 0px;
+	font-weight:bold;
+}
+span#p{
+	font-weight:bold;
+	color:white;
+	font-size:20pt;
+}
+input[type="button"]{
+	margin-bottom:80px;
+	width:100px;
+	height:40px;
+	border:3px solid white;
+	background-color:#fbcc00;
+	font-weight:bold;
+	color:white;
+}
+input[type="button"]:hover{
+	background-color:white;
+	font-weight:bold;
+	color:#fbcc00;
+}
+
+p {
+	margin: 10px;
+	color: red;
+}

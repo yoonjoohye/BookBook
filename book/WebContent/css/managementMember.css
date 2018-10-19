@@ -1,0 +1,61 @@
+body {
+	background-color: white;
+}
+
+input[type=text] {
+	width: 200px;
+	height: 26px;
+	line-height: 26px;
+	border: solid 1px lightgray;
+}
+
+select {
+	width: 60px;
+	height: 30px;
+	border: solid 1px lightgray;
+}
+
+iframe#smallIframe {
+	width: 1200px;
+	height: 600px;
+	border: none;
+	float: left;
+}
+
+img {
+	width: 25px;
+}
+
+div#bigBox {
+	width: 1200px;
+}
+
+div#box {
+	margin: 30px;
+	float: right;
+	
+}
+
+div#search {
+	float: left;
+	display: inline-block;
+}
+
+div#select {
+	float: left;
+	display: inline-block;
+}
+
+div#img {
+	width: 25px;
+	height: 25px;
+	padding: 2px;
+	background-color: #fbcc00;
+	display: inline-block;
+}
+
+div#search_selected {
+	height: 30px;
+	margin-left: 10px;
+	display: inline-block;
+}

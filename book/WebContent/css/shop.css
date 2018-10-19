@@ -1,0 +1,62 @@
+
+hr {
+	 border: 0.5px solid gray;
+}
+
+table td#box {
+	padding-top: 20px;
+}
+
+table td#td_right {
+	padding-left: 20px;
+}
+
+input[type="button"]{
+	width:120px;
+	height:50px;
+	font-weight:bold;
+	border:3px solid white;
+	background-color:#fbcc00;
+	color:white;
+}
+input[type="button"]:hover{
+	border:3px solid white;
+	background-color:white;
+	color:#fbcc00
+}
+
+input[type=number] {
+  height: 30px;
+  text-align: right;
+}
+
+table td div#title {
+	margin: 10px;
+	height: 70px;	
+}
+
+table td div#content_1 {
+	margin: 10px;
+	width: 300px;
+	height: 50px;	
+}
+
+table td div#content_2 {
+	margin: 10px;
+	width: 120px;	
+}
+
+table#content {
+	width: 780px;
+	margin: 10px;
+	margin-top: 30px;
+}
+
+table#content td#hr {
+	border-bottom: 1px solid black;
+	padding: 10px 0px;
+}
+
+table#content td {
+	padding: 10px 0px;
+}
