@@ -1,7 +1,10 @@
 # 부크부크
 
 책 쇼핑몰을 판매 및 구매 사이트 (기본, 어드민으로 구성)
-
+ 
+Role
+---------------------------------
+2인 개발 (백엔드 전부 및 프론트 약간)
 
 Skills
 -----------------------------------
@@ -31,7 +34,3 @@ ScreenShots
 ![image](https://user-images.githubusercontent.com/26542929/75113573-71a3de00-5692-11ea-9ee2-974bd2201e02.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113575-736da180-5692-11ea-91f8-53ffc29c17ad.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113577-76689200-5692-11ea-9b8c-f84fb81403c3.png)
-
-
-
-
