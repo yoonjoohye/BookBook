@@ -10,14 +10,7 @@ JSP + apache + MySQL + Javascript + JQuery
 
 ScreenShots
 -------------------------------------
-##### DB
-![image](https://user-images.githubusercontent.com/26542929/75113572-6fda1a80-5692-11ea-8952-40b7c5cb74ec.png)
-![image](https://user-images.githubusercontent.com/26542929/75113575-736da180-5692-11ea-91f8-53ffc29c17ad.png)
-![image](https://user-images.githubusercontent.com/26542929/75113577-76689200-5692-11ea-9b8c-f84fb81403c3.png)
-
-![image](https://user-images.githubusercontent.com/26542929/75113573-71a3de00-5692-11ea-9ee2-974bd2201e02.png)
-![image](https://user-images.githubusercontent.com/26542929/75113637-eecf5300-5692-11ea-9bef-afb996e7aeec.png)
-![image](https://user-images.githubusercontent.com/26542929/75113592-91d39d00-5692-11ea-8523-fdff68eee83c.png)
+##### user
 ![image](https://user-images.githubusercontent.com/26542929/75113602-b16ac580-5692-11ea-909d-6d4aa4d0bbee.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113613-c9dae000-5692-11ea-9a5e-3f711259468a.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113625-de1edd00-5692-11ea-8786-3fd5c36f6c9e.png)
@@ -33,5 +26,12 @@ ScreenShots
 ![image](https://user-images.githubusercontent.com/26542929/75113710-67361400-5693-11ea-82b9-f58952e888d6.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113701-5c7b7f00-5693-11ea-9283-155177e85ab4.png)
 
+
+##### DB
+![image](https://user-images.githubusercontent.com/26542929/75113572-6fda1a80-5692-11ea-8952-40b7c5cb74ec.png)
+![image](https://user-images.githubusercontent.com/26542929/75113577-76689200-5692-11ea-9b8c-f84fb81403c3.png)
+![image](https://user-images.githubusercontent.com/26542929/75113573-71a3de00-5692-11ea-9ee2-974bd2201e02.png)
+![image](https://user-images.githubusercontent.com/26542929/75113637-eecf5300-5692-11ea-9bef-afb996e7aeec.png)
+![image](https://user-images.githubusercontent.com/26542929/75113592-91d39d00-5692-11ea-8523-fdff68eee83c.png)
 
 
