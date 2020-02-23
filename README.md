@@ -13,7 +13,6 @@ ScreenShots
 ##### user
 ![image](https://user-images.githubusercontent.com/26542929/75113637-eecf5300-5692-11ea-9bef-afb996e7aeec.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113613-c9dae000-5692-11ea-9a5e-3f711259468a.png)
-![image](https://user-images.githubusercontent.com/26542929/75113625-de1edd00-5692-11ea-8786-3fd5c36f6c9e.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113647-04447d00-5693-11ea-9981-03a745877d4c.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113721-774df380-5693-11ea-84e7-4f2b257fafa2.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113744-a82e2880-5693-11ea-823e-004b5e9fc7d2.png)
