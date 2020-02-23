@@ -10,7 +10,7 @@ JSP + apache + MySQL + Javascript + JQuery
 
 ScreenShots
 -------------------------------------
-##### user
+##### user용 Screen
 ![image](https://user-images.githubusercontent.com/26542929/75113637-eecf5300-5692-11ea-9bef-afb996e7aeec.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113613-c9dae000-5692-11ea-9a5e-3f711259468a.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113647-04447d00-5693-11ea-9981-03a745877d4c.png)
@@ -18,7 +18,7 @@ ScreenShots
 ![image](https://user-images.githubusercontent.com/26542929/75113744-a82e2880-5693-11ea-823e-004b5e9fc7d2.png)
 
 
-##### admin
+##### admin용 Screen
 ![image](https://user-images.githubusercontent.com/26542929/75113666-2211e200-5693-11ea-8076-b5459169e2a0.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113682-3e158380-5693-11ea-9246-b2bf376f7699.png)
 ![image](https://user-images.githubusercontent.com/26542929/75113689-4e2d6300-5693-11ea-9054-2293ae306d5f.png)
